@@ -24,6 +24,5 @@ The API returns an array of news items with the following fields:
         "description": "२३ माघ, काठमाडौं ।...",
         "pubDate": "Wed, 05 Feb 2025 04:34:40 +0000",
         "thumbnail": "https://www.onlinekhabar.com/wp-content/uploads/2025/02/koti-hom-2.jpg"
-    },
-    ...
+    }
 ]
